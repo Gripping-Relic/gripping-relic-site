@@ -6,38 +6,31 @@ paginate = 10
 
 [params]
     description = "AI-Powered Process Automation & Legacy System Modernization"
-    author = "Gripping Relic Consulting"
-    showReadingTime = true
-    showShareButtons = true
-    showToc = true
+    showReadingTime = false
+    showShareButtons = false
+    showToc = false
     mainSections = ["blog"]
 
-    # Blog list settings
-    [params.list]
-        title = "Articles"
+    # Try to hide recent posts on homepage
+    disableRecentPosts = true
 
-# Menu
+# Menu (exactly as you had it)
 [[menu.main]]
     name = "Home"
     url = "/"
     weight = 1
 
 [[menu.main]]
-    name = "Services"
-    url = "/services/"
+    name = "About"
+    url = "/about/"
     weight = 2
 
 [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "Contact"
+    url = "/contact/"
     weight = 3
 
 [[menu.main]]
     name = "Blog"
     url = "/blog/"
     weight = 4
-
-[[menu.main]]
-    name = "Contact"
-    url = "/contact/"
-    weight = 5

@@ -1,7 +1,7 @@
 ---
 title: "AI Automation for Database Processes: A Practical Example"
 date: 2026-05-20T09:00:00-04:00
-draft: false
+draft: true
 description: "How we reduced manual ETL work by 70% using simple Python automation"
 categories: ["AI", "Automation"]
 tags: ["python", "databases", "consulting"]
