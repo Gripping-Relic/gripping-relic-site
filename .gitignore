@@ -1,0 +1,13 @@
+# Hugo generated files
+public/
+resources/
+.hugo_build.lock
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Node.js (if you ever add it)
+node_modules/

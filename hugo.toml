@@ -1,0 +1,38 @@
+baseURL = "https://grippingrelic.com/"
+title = "Gripping Relic Consulting"
+theme = "PaperMod"
+languageCode = "en"
+paginate = 10
+
+[params]
+    description = "AI-Powered Process Automation & Legacy System Modernization"
+    author = "Gripping Relic Consulting"
+    showReadingTime = true
+    showShareButtons = true
+    showToc = true
+
+# Menu
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Services"
+    url = "/services/"
+    weight = 2
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+[[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 4
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 5
