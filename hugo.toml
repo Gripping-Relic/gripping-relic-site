@@ -10,6 +10,11 @@ paginate = 10
     showReadingTime = true
     showShareButtons = true
     showToc = true
+    mainSections = ["blog"]
+
+    # Blog list settings
+    [params.list]
+        title = "Articles"
 
 # Menu
 [[menu.main]]
