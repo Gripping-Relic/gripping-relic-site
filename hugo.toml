@@ -1,4 +1,4 @@
-baseURL = "https://grippingrelic.com/"
+baseURL = "https://gripping-relic.netlify.app/"
 title = "Gripping Relic Consulting"
 theme = "PaperMod"
 languageCode = "en"
