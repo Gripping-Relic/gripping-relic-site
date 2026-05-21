@@ -5,7 +5,7 @@ title: "Ready to fly?"
 **Book a discovery call** and we'll talk about what's holding you down.
 
 {{< rawhtml >}}
-<form name="contact" method="POST" data-netlify="true" action="/thank-you/" class="max-w-lg mx-auto space-y-6">
+<form name="contact" method="POST" data-netlify="true" class="max-w-lg mx-auto space-y-6">
   
   <input type="hidden" name="form-name" value="contact">
   <input type="hidden" name="bot-field" style="display:none;">   <!-- Honeypot spam protection -->
