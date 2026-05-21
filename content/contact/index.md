@@ -1,7 +1,13 @@
+---
+title: "Ready to fly?"
+description: "Book a discovery call"
+---
+
+**Book a discovery call** and we'll talk about what's holding you down.
+
 {{< rawhtml >}}
 <form name="contact" method="POST" data-netlify="true" class="max-w-lg mx-auto space-y-6">
   
-  <!-- This hidden field is critical for Netlify Forms -->
   <input type="hidden" name="form-name" value="contact">
 
   <div>
